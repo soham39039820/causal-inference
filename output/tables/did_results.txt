@@ -1,0 +1,27 @@
+
+\begingroup
+\centering
+\begin{tabular}{lc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable:    & cognition\_score\\   
+   Model:                 & (1)\\  
+   \midrule
+   \emph{Variables}\\
+   treated $\times$ post  & 1.995$^{***}$\\   
+                          & (0.0767)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   id                     & Yes\\  
+   year                   & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations           & 11,000\\  
+   R$^2$                  & 0.53448\\  
+   Within R$^2$           & 0.06346\\  
+   \midrule \midrule
+   \multicolumn{2}{l}{\emph{IID standard-errors in parentheses}}\\
+   \multicolumn{2}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+
